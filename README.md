@@ -1,23 +1,9 @@
-### Hi there 👋
+<img src="https://raw.githubusercontent.com/uaibo/uaibo/master/SparkyWFH-01.png" align="right" width="300px"></img>
 
+### Oh, hello there 👋
 
-<img src="https://raw.githubusercontent.com/uaibo/uaibo/master/SparkyWFH-01.png" 
-     alt="Markdown Monster icon"
-     width="300" 
-     align="right"
-     />
-     
-<!--
-**uaibo/uaibo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+If you don't know me, I ...
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - 🎈 Used to wonder about computers, now I make web apps
+ - 🏝️ Enjoy staying at localhost.
+ - 🔥 Love memes, might invent a meme language in a near future!
