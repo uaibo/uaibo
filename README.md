@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<img src="https://raw.githubusercontent.com/samtstern/samtstern/master/SparkyWFH-01.png" 
+<img src="https://raw.githubusercontent.com/uaibo/uaibo/master/SparkyWFH-01.png" 
      alt="Markdown Monster icon"
      width="300" 
      align="right"
