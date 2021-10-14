@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+
+<img src="https://raw.githubusercontent.com/samtstern/samtstern/master/SparkyWFH-01.png" 
+     alt="Markdown Monster icon"
+     width="300" 
+     align="right"
+     />
+     
 <!--
 **uaibo/uaibo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
