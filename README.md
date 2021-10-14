@@ -2,6 +2,8 @@
 
 ### Oh, hello there 👋
 
+I'm Altin, from 🔥 [Angel1](https://angel1.tech/) 🔥 and I basically live on Localhost.
+
 If you don't know me, I ...
 
  - 🎈 Used to wonder about computers, now I make web apps
