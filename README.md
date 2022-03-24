@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/uaibo/uaibo/master/SparkyWFH-01.png" align="right" width="300px"></img>
+<img src="https://raw.githubusercontent.com/uaibo/uaibo/master/SparkyWFH-01.png?raw=true" align="right" width="300px"></img>
 
 ### Oh, hello there 👋
 
